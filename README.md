@@ -11,7 +11,8 @@
     
   
   * [Usage](#Usage)
-    
+
+  * [Languages](#Languages) 
   
   * [License](#License)
   
@@ -20,17 +21,20 @@
   
 
   ## Website:
- ( https://emistew14.github.io/My-Portfolio/ )
+ ( https://boiling-spire-50403.herokuapp.com/ )
 
   ## Usage:
-  A website that portrays my background and experience
-  ![My Portfolio](https://user-images.githubusercontent.com/77601180/111925157-e77ca380-8a64-11eb-8fce-9a252d8b79a1.png)
-![My Portfolio2](https://user-images.githubusercontent.com/77601180/111925194-0d09ad00-8a65-11eb-9bdb-44fc87894053.png)
+  Input a title for your note and then fill in the body, and refresh the page to see your notes saved for later.
+  ![Note-taker](https://user-images.githubusercontent.com/77601180/115123230-eca01600-9f70-11eb-9078-e6634fd2e22a.png)
+  ![note-taker2](https://user-images.githubusercontent.com/77601180/115123232-edd14300-9f70-11eb-98ee-e0f6b9bb05e2.png)
+
   
   ## Languages used:
  * HTML
  * CSS
  * Javascript
+ * Express
+ * Node
 
   ## License:
     ISC
